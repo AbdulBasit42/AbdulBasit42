@@ -27,9 +27,9 @@ I'm Abdul Basit, an experienced C++ developer with a passion for web development
 - Project 3: https://abdulbasit42.github.io/Simon-Game/
 
 ## 📈 My GitHub stats
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![AbdulBasit42](https://github-readme-stats.vercel.app/api?username=AbdulBasit42&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 My top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulBasit42&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to reach out to me for collaboration, feedback, or just to say hi!
