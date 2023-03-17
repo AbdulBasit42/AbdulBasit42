@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Abdul Basit, an experienced C++ developer with a passion for web development. I have a strong foundation in programming concepts, algorithms, and data structures, and have developed a variety of applications using C++, some simple console-based programs AND also using web technologies ,some complex high-performance apps.   
+I'm Abdul Basit,a B.Tech (computer science) 3rd year student. I am an experienced C++ developer with a passion for web development. I have a strong foundation in programming concepts, algorithms, and data structures, and have developed a variety of applications using C++, some simple console-based programs AND also using web technologies ,some complex high-performance apps.   
 
 ## 🔭 I'm currently working on
 - Building efficient and high-performance web applications using HTML, CSS, JavaScript, Node.js, EJS and React.
