@@ -19,12 +19,12 @@ I'm Abdul Basit, an experienced C++ developer with a passion for web development
 - Algorithms and data structures.
 
 ## 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/abdulbasit42/
+- [LinkedIn](https://www.linkedin.com/in/abdulbasit42/)
 
 ## 🚀 My projects
-- Project 1: https://github.com/AbdulBasit42/Blog-Website
-- Project 2: https://github.com/AbdulBasit42/Blood-Bank
-- Project 3: https://abdulbasit42.github.io/Simon-Game/
+- [Blog Website](https://github.com/AbdulBasit42/Blog-Website)
+- [Blood Bank Management](https://github.com/AbdulBasit42/Blood-Bank)
+- [Simon Game](https://abdulbasit42.github.io/Simon-Game/)
 
 ## 📈 My GitHub stats
 [![AbdulBasit42](https://github-readme-stats.vercel.app/api?username=AbdulBasit42&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
