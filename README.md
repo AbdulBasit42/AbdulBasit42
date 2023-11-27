@@ -20,8 +20,8 @@ I'm Abdul Basit,a B.Tech (computer science) 4rd year student. I am an experience
 - [LinkedIn](https://www.linkedin.com/in/abdulbasit42/)
 
 ## 🚀 My projects
+- [Blood Bank Management](https://bloodbank-mrnu.onrender.com/)
 - [Blog Website](https://github.com/AbdulBasit42/Blog-Website)
-- [Blood Bank Management](https://github.com/AbdulBasit42/Blood-Bank)
 - [Simon Game](https://abdulbasit42.github.io/Simon-Game/)
 
 ## 📈 My GitHub stats
